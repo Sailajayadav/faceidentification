@@ -86,3 +86,14 @@ Your contributions are welcome! If you have suggestions for improvements, please
 Props to Haar Cascades for the face detection capabilities.
 Gratitude to the face_recognition library for simplifying facial recognition technology.
 Kudos to opencv and matplotlib for their powerful image processing and visualization tools.
+
+<br>
+
+### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
+
+---
+
+
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/NadavIs56">Nadav Ishai</a>
+</div>
