@@ -2,7 +2,7 @@
 
 ## Introduction 🌟
 
-This repository houses an advanced face recognition system that leverages a database of facial images to identify individuals within a given photograph. Crafted with the power of Python and its robust libraries like `face_recognition` and `opencv`, this system is not only accurate but also user-friendly.
+Welcome to a customizable face recognition system designed to identify individuals in photographs based on a user-populated database of facial images. This powerful tool harnesses Python and its potent libraries, such as `face_recognition` and `opencv`, offering a blend of accuracy and user-centric functionality. Tailor the database with your images and let the system pinpoint matches with ease.
 
 ## Features 🚀
 
@@ -17,3 +17,8 @@ Ensure you have Python installed, and then set up the required libraries with th
 
 ```bash
 pip install face_recognition opencv-python
+
+Get the code by cloning this repository:
+```bash
+git clone https://github.com/your-github-username/face-recognition-system.git
+
