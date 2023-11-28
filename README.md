@@ -1,6 +1,4 @@
-# Face-Detection-and-Recognition
-
-# Face Recognition System 🧑🔍
+# Face Detection and Recognition System 🧑🔍
 
 ## Introduction 🌟
 
