@@ -1,4 +1,4 @@
-# Face Detection and Recognition System 🧑🔍
+#  <p align ="center" height="40px" width="40px"> Face Detection and Recognition System 🧑🔍 </p>
 
 ## Introduction 🌟
 
