@@ -49,3 +49,9 @@ The processed image will be stored as **result.jpg** in the project's root direc
 
 ## Contributions 👐
 Your contributions are welcome! If you have suggestions for improvements, please open an issue to kick off the discussion.
+
+
+## Acknowledgments 👏
+Props to Haar Cascades for the face detection capabilities.
+Gratitude to the face_recognition library for simplifying facial recognition technology.
+Kudos to opencv and matplotlib for their powerful image processing and visualization tools.
