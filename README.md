@@ -22,3 +22,15 @@ Get the code by cloning this repository:
 ```bash
 git clone https://github.com/your-github-username/face-recognition-system.git
 ```
+
+## Usage 📘
+1. Prepare a database directory containing named images of individuals.
+2. Execute the script.
+3. Select an image through the file dialog prompt.
+4. Let the system work its magic, detecting, recognizing, and annotating faces, saving the output as result.jpg.
+
+### Running the Script
+Navigate to the script's directory and run:
+```bash
+python face_recognition_system.py
+```
