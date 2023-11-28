@@ -1,5 +1,14 @@
 #  <p align ="center" height="40px" width="40px"> Face Detection and Recognition System 🧑🔍 </p>
 
+### <p align ="center"> Implemented using: </p>
+<p align ="center">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="64" height="64" /></a> 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">   <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="64" height="64" /></a> 
+</p>
+
+<br>
+
+
 ## Introduction 🌟
 
 Welcome to a customizable face recognition system designed to identify individuals in photographs based on a user-populated database of facial images. This powerful tool harnesses Python and its potent libraries, such as `face_recognition` and `opencv`, offering a blend of accuracy and user-centric functionality. Tailor the database with your images and let the system pinpoint matches with ease.
