@@ -32,5 +32,5 @@ git clone https://github.com/your-github-username/face-recognition-system.git
 ### Running the Script
 Navigate to the script's directory and run:
 ```bash
-python face_recognition_system.py
+python main.py
 ```
