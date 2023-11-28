@@ -12,7 +12,7 @@ Welcome to a customizable face recognition system designed to identify individua
 - **Face Recognition**: Matches detected faces against a pre-established database to identify individuals. 👤
 - **Annotation**: Labels recognized faces with rectangles and their corresponding names. 🏷️
 - **Scalability**: Designed with future enhancements in mind, including video file processing. 📈
-- 
+  
 <br>
 
 ## Installation 💻
@@ -26,6 +26,9 @@ Get the code by cloning this repository:
 ```bash
 git clone https://github.com/your-github-username/face-recognition-system.git
 ```
+  
+<br>
+
 
 ## Usage 📘
 1. Prepare a database directory containing named images of individuals.
@@ -38,6 +41,9 @@ Navigate to the script's directory and run:
 ```bash
 python main.py
 ```
+  
+<br>
+
 
 ## Database Structure 🗂️
 The database should meet the following criteria:
@@ -45,14 +51,20 @@ The database should meet the following criteria:
 - Only image formats such as .png, .jpg, .jpeg, .tiff, .bmp, or .gif.
 - Each image should display only one individual's face.
 - Image filenames should correspond to the individual's name.
+  
+<br>
 
 
 ## Output 🖼️
 The processed image will be stored as **result.jpg** in the project's root directory, complete with labeled rectangles around each recognized face.
+  
+<br>
 
 
 ## Contributions 👐
 Your contributions are welcome! If you have suggestions for improvements, please open an issue to kick off the discussion.
+  
+<br>
 
 
 ## Acknowledgments 👏
