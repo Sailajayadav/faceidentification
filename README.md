@@ -81,6 +81,15 @@ Your contributions are welcome! If you have suggestions for improvements, please
   
 <br>
 
+## Future Updates 🔄
+
+**Here's what's on the horizon for this face recognition system:**
+
+- **Video Processing**: We plan to extend the system's capabilities to detect and recognize faces in video files, enhancing its applicability in various real-world scenarios.
+- **Real-Time Recognition**: Implementing the ability to recognize faces in real-time through live video feeds.
+
+**Stay tuned for these exciting enhancements that will make the system more powerful and versatile for all users!**
+<br>
 
 ## Acknowledgments 👏
 Props to Haar Cascades for the face detection capabilities.
