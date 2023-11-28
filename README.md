@@ -17,7 +17,7 @@ Ensure you have Python installed, and then set up the required libraries with th
 
 ```bash
 pip install face_recognition opencv-python
-
+'''
 Get the code by cloning this repository:
 ```bash
 git clone https://github.com/your-github-username/face-recognition-system.git
