@@ -89,6 +89,7 @@ Your contributions are welcome! If you have suggestions for improvements, please
 - **Real-Time Recognition**: Implementing the ability to recognize faces in real-time through live video feeds.
 
 **Stay tuned for these exciting enhancements that will make the system more powerful and versatile for all users!**
+
 <br>
 
 ## Acknowledgments 👏
