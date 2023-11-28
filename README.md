@@ -44,4 +44,4 @@ The database should meet the following criteria:
 
 
 ## Output 🖼️
-The processed image will be stored as result.jpg in the project's root directory, complete with labeled rectangles around each recognized face.
+The processed image will be stored as **result.jpg** in the project's root directory, complete with labeled rectangles around each recognized face.
