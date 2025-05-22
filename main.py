@@ -2,6 +2,8 @@ from tkinter import filedialog
 import face_recognition
 import cv2
 import os
+# Set the working directory to the script's location
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # Use OpenCV's internal Haar cascade path
 face_classifier = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
